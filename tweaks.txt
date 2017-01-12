@@ -1,1 +1,15 @@
-work with postscript ---> GSview (ghostscript set of tools)
++TIPS
+ 
+ - PDF -> Preferences -> Page Display: swith on/off local fonts (pdf will use embeded fonts, if no embeded then substituted fonts)    
+   - embeded font adds aprox. 20kb to file size
+   - when need to embed: Type 1 fonts over TrueType fonts (embedded Type 1 fonts are much smaller)
+
++TOOLS
+ - work with postscript as with PDF ---> GSview (ghostscript set of tools)
+ - work with XSL-FO files, http://xmlgraphics.apache.org/fop/download.html
+
++KNOWLEDGE
+ - Font subsetting is the technique of embedding only a portion of a font
+   (font subset contains only the characters used in your document).
+ - javascirp in Acrobate (add new funcionality to PDFs)!
+   [When Acrobat starts up, it runs any JavaScripts it finds in either the system-level JavaScripts folder or the user-level JavaScripts folder]
