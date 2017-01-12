@@ -1,0 +1,1 @@
+work with postscript ---> GSview (ghostscript set of tools)
