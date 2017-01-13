@@ -1,8 +1,8 @@
-+TIPS
- 
++TIPS 
  - PDF -> Preferences -> Page Display: swith on/off local fonts (pdf will use embeded fonts, if no embeded then substituted fonts)    
-   - embeded font adds aprox. 20kb to file size
-   - when need to embed: Type 1 fonts over TrueType fonts (embedded Type 1 fonts are much smaller)
+   + embeded font adds aprox. 20kb to file size
+   + when need to embed: Type 1 fonts over TrueType fonts (embedded Type 1 fonts are much smaller)
+ - use bookmarklets!
 
 +TOOLS
  - work with postscript as with PDF ---> GSview (ghostscript set of tools)
